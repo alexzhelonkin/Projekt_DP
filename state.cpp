@@ -1,5 +1,5 @@
 //dp state
-
+#include ‚Äústdafx.h‚Äù
 #include <cstdio>
 #include <cctype>
 #include <sstream>
@@ -32,7 +32,7 @@ private:
 	void eraseOldStates();
 	static void eraseState(TTelevisor_State * pState);
 protected:
-	//INFO: tu uproszczenie (friendy) po to by nie dodawaÊ metod do zarzπdzania poniøszymi zmiennymi
+	//INFO: tu uproszczenie (friendy) po to by nie dodawaƒá metod do zarz≈°dzania poni≈ºszymi zmiennymi
 	friend class CTVState_Idle;
 	friend class CTVState_PowerOnOff;
 	friend class CTVState_PickChannel;
