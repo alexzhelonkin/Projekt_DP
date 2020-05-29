@@ -1,3 +1,3 @@
 # Projekt_DP
 Mikołaj Koczur
-Alexander Levener
+Oleksandr Zhelonkin
